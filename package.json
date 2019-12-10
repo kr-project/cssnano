@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=6.9.0"
   },
+  "resolutions": {
+    "postcss": "github:kr-project/postcss#61afa8647758ae8b4f7047c6365b3f50f4db848c"
+  },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
